@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '书亚博园'
-description: '昵称 KangDaddy，全栈码农/伪极客/直男，热爱技术&哲学。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '刘朝圳, 书亚博园, 刘朝圳的博客, 机器学习, 神经网络, 人工智能, ml, neural networks, C++, Python, Java, Go'
-url: 'http://fooyou.github.io' # your host
+title: ''
+description: ''
+keyword: ''
+url: 'http://funpanny.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -13,10 +13,10 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: '刘朝圳'
-nickname: 'KangDaddy'
-email: 'liuchaozhen@me.com'
-bio: '全栈开发者 | 机器学习与人工智能 | 直渣男'
+author: ''
+nickname: ''
+email: ''
+bio: ''
 avatar: '/assets/img/profile.png'
 
 # Search
