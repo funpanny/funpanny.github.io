@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '千里之行 始于足下'
-description: ''
-keyword: ''
+description: '学习技术，热爱生活'
+keyword: '博客，知识图谱，智能对话，Java，python'
 url: 'http://funpanny.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -13,10 +13,10 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: ''
-nickname: ''
+author: '刘红霞'
+nickname: 'panny'
 email: ''
-bio: ''
+bio: '知识图谱|对话系统|技术渣渣'
 avatar: '/assets/img/profile.png'
 
 # Search
